@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@100&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@100;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@100;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@100;400;700&family=Roboto:wght@100&display=swap');
+
+
+
+body {width: 1170px;
+    background:  #E5E5E5;
+    color:#333333;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+     
+        font-size: 14px;
+        box-sizing: border-box;
+        
+        padding: 0 15px;
+        margin: 0;
+    }
+    .menu{display:flex;
+    text-align:center;
+      justify-content: space-between;
+  padding-left: 82px;
+  
+    }
+    
+    .menu_a { width: 184px;
+    height:19px;
+    text-align: center;
+    text-decoration: none;
+    
+color: #333333;
+font-weight: 400;
+line-height: 19px;
+z-index: -2;}
+
+.position {height: 20px;
+    border-top: 1px solid #C6CBCD;
+    border-left: 1px solid #C6CBCD;
+    border-right: 1px solid #C6CBCD;
+border-radius: 2px 2px 0 0;
+box-shadow: 0 5px 1px 0px #E5E5E5;
+z-index: 1;}
+
+
+#notext {width: 587px;}
+    
+    .img {float: right;
+    width: 470px;;
+    height: 500px;}
+
+.content {border: 1px solid #C6CBCD;
+z-index: 0;
+width: 1170px;
+height: 501px;}
+
+    .content_text {width: 570px;
+       
+    padding-left: 100px;}
+
+    .text1 {height: 125px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+    font-weight: 700;
+}
+
+    .text2 {font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        height: 210px;
+        font-size: 18px;
+        margin-top: 27px; }
+
+    button {background:  #EC7979;
+        color: #FFFFFF;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+        width: 270px;
+    height: 58px;
+border: none;
+margin-top: 27px;
+padding: 0;
+}
+    
